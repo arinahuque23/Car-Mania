@@ -4,7 +4,7 @@
    }
    
    .slider-container {
-     max-width: 90%;
+     max-width: 80%;
    }
    
    .testimonial-item {
@@ -46,5 +46,27 @@
    
    .testimonial-rating img {
      display: inline-block;
+   }
+   
+   /* Custom arrow styles */
+   .slick-prev, .slick-next {
+     z-index: 1;
+     width: 30px;
+     height: 30px;
+     top: 50%;
+     transform: translateY(-50%);
+     cursor: pointer;
+   }
+   
+   .slick-prev {
+     left: -40px;
+   }
+   
+   .slick-next {
+     right: -40px;
+   }
+   
+   .slick-prev::before, .slick-next::before {
+     display: none;
    }
    
