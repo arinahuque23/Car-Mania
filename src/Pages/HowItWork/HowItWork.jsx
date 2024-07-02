@@ -3,6 +3,7 @@ import React from "react";
 const HowItWork = () => {
   return (
     <div className="mt-20">
+     {/* add new comment */}
       <div>
         <h1 className="text-xl text-center text-gray-400">HOW IT WORK</h1>
         <h1 className="text-4xl text-center mb-20">Rent your desired car with following 3 working steps</h1>
