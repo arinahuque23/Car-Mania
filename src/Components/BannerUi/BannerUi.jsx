@@ -4,7 +4,7 @@ const BannerUi = () => {
   return (
     <div>
       <div className="flex justify-between">
-        <div className=" mx-[10vh] text-center mt-20">
+        <div className=" mx-[10vh]  mt-20">
           <div><h1 className="text-7xl font-extralight">
             Rent your favorite car in Easy steps.
           </h1>
