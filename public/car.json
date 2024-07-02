@@ -1,0 +1,123 @@
+[
+     {
+       "rating": 4.8,
+       "reviews": "100+",
+       "car_model": "i20 2018 Model",
+       "location": "Noida, India",
+       "passengers": 4,
+       "transmission": "Manual",
+       "features": ["Air Conditioning", "4 Doors"],
+       "price_per_day": 1800,
+       "availability": "Rent Now",
+       "image_url": "https://img.freepik.com/premium-photo/blue-premium-business-sedan-car-sports-configuration-white-background-3d-rendering_101266-26564.jpg"
+     },
+     {
+       "rating": 4.5,
+       "reviews": "150+",
+       "car_model": "Swift 2019 Model",
+       "location": "Delhi, India",
+       "passengers": 5,
+       "transmission": "Automatic",
+       "features": ["Air Conditioning", "4 Doors"],
+       "price_per_day": 2000,
+       "availability": "Rent Now",
+       "image_url": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Volvo/XC-90/10588/1689924353443/front-left-side-47.jpg"
+     },
+     {
+       "rating": 4.7,
+       "reviews": "200+",
+       "car_model": "Baleno 2020 Model",
+       "location": "Mumbai, India",
+       "passengers": 4,
+       "transmission": "Manual",
+       "features": ["Air Conditioning", "4 Doors", "GPS"],
+       "price_per_day": 2200,
+       "availability": "Rent Now",
+       "image_url": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278_640.jpg"
+     },
+     {
+       "rating": 4.9,
+       "reviews": "300+",
+       "car_model": "Creta 2021 Model",
+       "location": "Bangalore, India",
+       "passengers": 5,
+       "transmission": "Automatic",
+       "features": ["Air Conditioning", "4 Doors", "Sunroof"],
+       "price_per_day": 2500,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/dP2x0C2/Red-Mazda-Car-1180x664-1-3.png"
+     },
+     {
+       "rating": 4.6,
+       "reviews": "80+",
+       "car_model": "Verna 2017 Model",
+       "location": "Chennai, India",
+       "passengers": 4,
+       "transmission": "Manual",
+       "features": ["Air Conditioning", "4 Doors"],
+       "price_per_day": 1700,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/3fmkVp5/Group-51.png"
+     },
+     {
+       "rating": 4.7,
+       "reviews": "120+",
+       "car_model": "Ciaz 2018 Model",
+       "location": "Kolkata, India",
+       "passengers": 4,
+       "transmission": "Automatic",
+       "features": ["Air Conditioning", "4 Doors"],
+       "price_per_day": 1900,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/3fmkVp5/Group-51.png"
+     },
+     {
+       "rating": 4.8,
+       "reviews": "220+",
+       "car_model": "City 2019 Model",
+       "location": "Pune, India",
+       "passengers": 5,
+       "transmission": "Manual",
+       "features": ["Air Conditioning", "4 Doors", "GPS"],
+       "price_per_day": 2100,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/g7FDXJD/Red-Mazda-Car-1180x664-1-2.png"
+     },
+     {
+       "rating": 4.5,
+       "reviews": "90+",
+       "car_model": "Amaze 2017 Model",
+       "location": "Hyderabad, India",
+       "passengers": 4,
+       "transmission": "Automatic",
+       "features": ["Air Conditioning", "4 Doors"],
+       "price_per_day": 1600,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/dP2x0C2/Red-Mazda-Car-1180x664-1-3.png"
+     },
+     {
+       "rating": 4.9,
+       "reviews": "400+",
+       "car_model": "XUV500 2020 Model",
+       "location": "Ahmedabad, India",
+       "passengers": 7,
+       "transmission": "Manual",
+       "features": ["Air Conditioning", "4 Doors", "Sunroof", "GPS"],
+       "price_per_day": 3000,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/3fmkVp5/Group-51.png"
+     },
+     {
+       "rating": 4.6,
+       "reviews": "130+",
+       "car_model": "Venue 2019 Model",
+       "location": "Lucknow, India",
+       "passengers": 5,
+       "transmission": "Automatic",
+       "features": ["Air Conditioning", "4 Doors"],
+       "price_per_day": 2300,
+       "availability": "Rent Now",
+       "image_url": "https://i.ibb.co/g7FDXJD/Red-Mazda-Car-1180x664-1-2.png"
+     }
+   ]
+   
